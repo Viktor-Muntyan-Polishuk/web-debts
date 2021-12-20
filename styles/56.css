@@ -1,0 +1,18 @@
+.Border-1{
+    width: 150px;
+    height: 150px;
+    border: 1px solid green;
+    border-radius: 10px 20px 30px 40px;
+}
+.Border-2{
+    width: 150px;
+    height: 150px;
+    border: 1px solid green;
+    border-radius: 10px 20px;
+}
+.Border-3{
+    width: 150px;
+    height: 150px;
+    border: 1px solid green;
+    border-radius: 10px 20px 15px 20px;
+}

@@ -1,0 +1,18 @@
+.Border-1-1{
+    width: 140px;
+    border: 1px solid orange;
+}
+.Border-1-2{
+    height: 25px;
+    margin: 15px 30px 60px 5px;
+    border: 1px dashed blue;
+}
+.Border-2-1{
+    width: 200px;
+    border: 1px solid orange;
+}
+.Border-2-2{
+    height: 50px;
+    margin: 100px 50px;
+    border: 1px dashed blue;
+}
