@@ -1,0 +1,60 @@
+.Border-Red-1{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.Border-Red-2{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.Border-Red-3{
+    padding: 10px 20px;
+	border: 1px solid red;
+    text-align: right;
+}
+.Border-Red-4{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.Border-Red-5{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.Border-Red-6{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child-1{
+    padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin: 0px 5px;
+}
+.child-2{
+    padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+}
+.child-3{
+    padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    margin: 20px;
+}
+.child-4{
+    width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+}
+.child-5{
+    width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    display: inline-block;
+    text-align: center;
+}

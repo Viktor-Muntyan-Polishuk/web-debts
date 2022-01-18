@@ -1,0 +1,41 @@
+.Border-Blue{
+    padding: 10px;
+	border: 1px solid blue;
+    margin-bottom: 30px;
+}
+p{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
+a{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
+h2{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
+h3{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
+i{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}
+b{
+    width: 600px;
+    height: 100px;
+	border: 1px solid red;
+	text-align: justify;
+}

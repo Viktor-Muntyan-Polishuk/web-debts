@@ -1,0 +1,15 @@
+.Border-Red-1{
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.Border-Red-2{
+	padding: 10px 0px;
+	border: 1px solid red;
+    text-align: right;
+}
+.Border-Red-3{
+	padding: 10px 20px;
+	border: 1px solid red;
+    text-align: right;
+}

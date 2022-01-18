@@ -1,0 +1,21 @@
+.Border-Red{
+    border: 1px solid red;
+}
+.Border-Green-1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.Border-Green-2{
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.Border-Green-3{
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}

@@ -1,0 +1,21 @@
+.Border-Red-1{
+    padding: 10px 20px 30px 40px;
+
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+.Border-Red-2{
+    padding: 40px 20px;
+
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+.Border-Red-3{
+    padding: 10px 20px 40px;
+
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
